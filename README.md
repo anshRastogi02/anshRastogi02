@@ -37,7 +37,7 @@
 
 ###
 
-<p align="left">🔭 Pre-Final Year B.Tech at IIT Roorkee<br>🚀 Building a Gen AI product SoftIQ<br>👯 I’m looking to collaborate on budding technologies like kubernetes and AI<br>💬 Ask me about AI/ML, Robotics, Cloud and development.</p>
+<p align="left">🔭 Pre-Final Year B.Tech at IIT Roorkee<br>🚀 Building a Gen AI product SoftIQ<br>👯 I’m looking to collaborate on budding technologies like kubernetes and AI<br>💬 Ask me about AI/ML, Robotics, Cloud and development.<br>💪 Competitive Programming</p>
 
 ###
 
@@ -99,6 +99,8 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" height="40" alt="pandas logo"  />
 </div>
 
+<h3 align="left">🛠 Competitive Programming and Problem Solving</h3>
+<h4>Codeforces: Specialist 1473 🙌🏻<br>Codechef: 3🌟 1788</h4>
 ###
 
 <h3 align="left">🔥   My Stats :</h3>
